@@ -1,4 +1,4 @@
-package com.clara;
+package com.tanjira;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;

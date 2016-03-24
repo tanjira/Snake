@@ -1,4 +1,4 @@
-package com.clara;
+package com.tanjira;
 
 import java.awt.Point;
 import java.util.LinkedList;

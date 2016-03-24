@@ -1,10 +1,10 @@
-package com.clara;
+package com.tanjira;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
 /**
- * Created by clara. Handles key presses that affect the snake.
+ * Created by tanjira. Handles key presses that affect the snake.
  */
 public class SnakeControls implements KeyListener {
 
